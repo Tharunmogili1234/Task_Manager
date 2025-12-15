@@ -1,0 +1,5 @@
+body { font-family: Arial; }
+.box { width: 300px; margin: 20px auto; padding: 15px; border: 1px solid #000; }
+input, button { width: 100%; margin: 5px 0; }
+.task { padding: 5px; margin: 5px 0; border: 1px solid gray; }
+.drop { border: 2px dashed black; padding: 10px; margin: 5px; }
